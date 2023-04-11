@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Andrew Wallace. I am currently a 2nd Year Computer Science BSc (Hons) student at LJMU and Electrical and Electronic Engineer (which I studied at the University of Liverpool). I am interested primarily in artificial intelligence topics such as machine learning, deep learning, and neural networks. I also enjoy 
+My name is Andrew Wallace. I am currently a 2nd Year Computer Science BSc (Hons) student at LJMU and Electrical and Electronic Engineer (which I studied at the University of Liverpool). I am interested primarily in artificial intelligence topics such as machine learning, deep learning, and neural networks. I also enjoy simulations and am experienced in Unity and Unreal Engine.
 
 <!--
 **TheAndrewWallace/TheAndrewWallace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
