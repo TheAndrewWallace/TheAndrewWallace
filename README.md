@@ -2,7 +2,7 @@
 
 Hello there, I'm Andrew Wallace, a first class Computer Science graduate who has worked at the University of Cambridge researching AI, and a Google DeepMind Alumni. I am passionate about AI, robotics, and simulations. You will find my AI labratory is pulsing with innovation (and excitment)! ✨
 
-Check out my [Portfilo Website](TheAndrewWallace.github.io)!
+Check out my [Portfolio Website](https://theandrewwallace.github.io/)
 
 ## 🚀 About Me
 * 🧠 Im facinated by AI - mainly Reinforcement Learning & Multi-Agent Systems.
