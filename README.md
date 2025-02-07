@@ -12,7 +12,7 @@ Check out my [Portfilo Website](TheAndrewWallace.github.io)!
 ## 🛠️ My Projects
 * **Personal Portfolio Website** - Nice way to showcase some of my projects
 * **Generative Adversarial Network for generating images of Ganyu from Genshin Impact** - A GAN Ganyu, if you will.
-* **Deep-Q Network controlled cars in PyBullet** - Good exeriment into learning to create custom simulation environments for deploying AI with PyBullet.
+* **Deep-Q Network controlled cars in PyBullet** - Good exeriment into learning to create custom simulation environments for developing and training AI with PyBullet.
 * **Graph Neural Network for Drone Trajectory Deconfliction (University of Cambridge)** - Creating a neural network with custom attention module to deconflict agent trajectories whilst generalising to the number of agents.
 * **Multi-Agent System Adversarial Simulation and AI (Bachelors Dissertation LJMU)** - Red vs Blue team fighting to eliminate the enemy using a Deep-Q network. Experimented with strategies involving cooperative and adversarial behaviour in relation to reinforcement learning.
 
