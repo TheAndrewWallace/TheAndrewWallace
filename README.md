@@ -4,6 +4,8 @@ Hello there, I'm Andrew Wallace, a first class Computer Science graduate who has
 
 Check out my [Portfolio Website](https://theandrewwallace.github.io/)
 
+Also my [Kaggle Profile](https://www.kaggle.com/andrewpaulwallace)
+
 ## 🚀 About Me
 * 🧠 Im facinated by AI - mainly Reinforcement Learning & Multi-Agent Systems.
 * 👨‍🎓 It's my ambition to eventually get my PhD and contribute to the field of robotics and artificial intelligence.
