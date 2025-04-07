@@ -19,9 +19,10 @@ Also my [Kaggle Profile](https://www.kaggle.com/andrewpaulwallace)
 * **Multi-Agent System Adversarial Simulation and AI (Bachelors Dissertation LJMU)** - Red vs Blue team fighting to eliminate the enemy using a Deep-Q network. Experimented with strategies involving cooperative and adversarial behaviour in relation to reinforcement learning.
 
 ## 🎯 Goals for 2025
-* 👨‍🎓 Get a Computer Science postgraduate degree offer
+* 👨‍🎓 Get accepted to PhD ✔️
 * 📖 Start postgraduate study
-* 🗣️ Learn more Mandarin Chinese & Reach German Level B2
+* 🇩🇪 Reach German B2 ✔️
+* 🗣️ Learn more Mandarin Chinese
 * 💻 Make more AI projects and share them
 * 🎥 Make videos of some of my most exciting projects
 * 🎮 Complete 3 game jams (1/3 so far!)
