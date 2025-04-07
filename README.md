@@ -21,7 +21,7 @@ Also my [Kaggle Profile](https://www.kaggle.com/andrewpaulwallace)
 ## 🎯 Goals for 2025
 * 👨‍🎓 Get accepted to PhD ✔️
 * 📖 Start postgraduate study
-* 🇩🇪 Reach German B2 ✔️
+* 💶 Reach German B2 ✔️
 * 🗣️ Learn more Mandarin Chinese
 * 💻 Make more AI projects and share them
 * 🎥 Make videos of some of my most exciting projects
