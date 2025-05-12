@@ -1,35 +1,19 @@
 ### 🤖 Hi, I'm Andrew!
 
-Hello there, I'm Andrew Wallace, a first class Computer Science graduate who has worked at the University of Cambridge researching AI, and a Google DeepMind Alumni. I am passionate about AI, robotics, and simulations. You will find my AI labratory is pulsing with innovation (and excitment)! ✨
+Hi, I'm Andrew, an AI researcher due to start my PhD in Septemeber 2025. I have previously worked at the University of Cambridge on AI research, I am a Google DeepMind Alumni, and I graduated from LJMU with a first class Bachelors (Hons) in Computer Science. In my personal time, I am a a hobbyist game developer, and I am learning German and Mandarin Chinese. Please reach out if you would like to collaborate, ask questions, or for any other reason.
+LinkedIn: [LinkedIn Profile](https://uk.linkedin.com/in/andrewpaulwallace)
+Kaggle Profile: [Kaggle Profile](https://www.kaggle.com/andrewpaulwallace)
 
-Check out my [Portfolio Website](https://theandrewwallace.github.io/)
-
-Also my [Kaggle Profile](https://www.kaggle.com/andrewpaulwallace)
-
-## 🚀 About Me
-* 🧠 Im facinated by AI - mainly Reinforcement Learning & Multi-Agent Systems.
-* 👨‍🎓 It's my ambition to eventually get my PhD and contribute to the field of robotics and artificial intelligence.
-* 🕹️ I love gaming!
+## 🚀 Area's of interest.
+* 🧠 Reinforcement Learning in Multi-Agent Systems
+* 👨‍🎓 Alignment
+* 🕹️ Robotics
 
 ## 🛠️ My Projects
-* **Personal Portfolio Website** - Nice way to showcase some of my projects
 * **Generative Adversarial Network for generating images of Ganyu from Genshin Impact** - A GAN Ganyu, if you will.
 * **Deep-Q Network controlled cars in PyBullet** - Good exeriment into learning to create custom simulation environments for developing and training AI with PyBullet.
 * **Graph Neural Network for Drone Trajectory Deconfliction (University of Cambridge)** - Creating a neural network with custom attention module to deconflict agent trajectories whilst generalising to the number of agents.
 * **Multi-Agent System Adversarial Simulation and AI (Bachelors Dissertation LJMU)** - Red vs Blue team fighting to eliminate the enemy using a Deep-Q network. Experimented with strategies involving cooperative and adversarial behaviour in relation to reinforcement learning.
-
-## 🎯 Goals for 2025
-* 👨‍🎓 Get accepted to PhD ✔️
-* 📖 Start postgraduate study
-* 💶 Reach German B2 ✔️
-* 🗣️ Learn more Mandarin Chinese
-* 💻 Make more AI projects and share them
-* 🎥 Make videos of some of my most exciting projects
-* 🎮 Complete 3 game jams (1/3 so far!)
-* 🛡️ Get up to date on Final Fantasy XIV
-
-
-
 
 <!--
 **TheAndrewWallace/TheAndrewWallace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
