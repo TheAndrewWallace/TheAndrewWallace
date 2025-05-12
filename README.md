@@ -1,7 +1,9 @@
 ### 🤖 Hi, I'm Andrew!
 
 Hi, I'm Andrew, an AI researcher due to start my PhD in Septemeber 2025. I have previously worked at the University of Cambridge on AI research, I am a Google DeepMind Alumni, and I graduated from LJMU with a first class Bachelors (Hons) in Computer Science. In my personal time, I am a a hobbyist game developer, and I am learning German and Mandarin Chinese. Please reach out if you would like to collaborate, ask questions, or for any other reason.
+
 LinkedIn: [LinkedIn Profile](https://uk.linkedin.com/in/andrewpaulwallace)
+
 Kaggle Profile: [Kaggle Profile](https://www.kaggle.com/andrewpaulwallace)
 
 ## 🚀 Area's of interest.
